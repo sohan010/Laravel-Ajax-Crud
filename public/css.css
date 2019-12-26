@@ -1,0 +1,15 @@
+table thead th,table tr td
+{
+  text-align: center;
+}
+
+.load
+{
+  position: fixed;
+  left:38%;
+  text-align: center;
+  top:25%;
+  z-index: 9999;
+  margin: auto;
+  display: none;
+}
